@@ -641,6 +641,8 @@ Raw NHS prescribing files are not included in this repository due to file size.
 
 The `data` folder documents the public data sources and transformation approach used in the project.
 
+The Power BI .pbix source file is included in this repository for portfolio review and reproducibility.
+
 ---
 
 ## Dashboard Summary
