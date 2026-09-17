@@ -622,6 +622,8 @@ These additions could improve the interpretation of geographic market developmen
     │
     ├── README.md
     │
+    ├── GLP1_Commercial_Opportunity_Analysis.pbix
+    │
     ├── images/
     │   ├── executive_overview.png
     │   ├── competitive_performance.png
@@ -638,8 +640,6 @@ These additions could improve the interpretation of geographic market developmen
 Raw NHS prescribing files are not included in this repository due to file size.
 
 The `data` folder documents the public data sources and transformation approach used in the project.
-
-The Power BI `.pbix` source file is available upon request.
 
 ---
 
